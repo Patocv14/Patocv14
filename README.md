@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **patriciocv14@gmail.com**
 
-- 📄 Know about my experiences [FullStack web in EnjoyEsportsLeague (6 months)](FullStack web in EnjoyEsportsLeague (6 months))
+- 📄 Know about my experiences (FullStack web in EnjoyEsportsLeague (6 months))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
